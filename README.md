@@ -5,4 +5,4 @@ A python based library with some QoL improvements :D
 
 * [Nitlix](https://github.com/nitlix) - The creator of this project
 
-Be aware that this is still in BETA! WIP!
+## This library is still being developed. It may have some bugs.
