@@ -4,3 +4,5 @@ A python based library with some QoL improvements :D
 ## Built with ❤️ by Nitlix
 
 * [Nitlix](https://github.com/nitlix) - The creator of this project
+
+Be aware that this is still in BETA! WIP!
